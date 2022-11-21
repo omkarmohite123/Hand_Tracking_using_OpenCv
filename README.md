@@ -31,7 +31,7 @@ import mediapipe as mp
 
 import time
 
-#hand game.py
+# mygame.py
 
 import HandTrackingModule as HTM
 
