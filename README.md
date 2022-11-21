@@ -36,3 +36,9 @@ import time
 import HandTrackingModule as HTM
 
 
+# Refere link for opencv
+*mediapipe*
+https://google.github.io/mediapipe/solutions/hands.html
+
+*opencv*
+https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
